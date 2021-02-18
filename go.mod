@@ -1,5 +1,5 @@
-module git.code.oa.com/cdb_admin/wire
+module github.com/mateemu/wire
 
-go 1.15
+go 1.14
 
 require github.com/judwhite/go-svc v1.2.1

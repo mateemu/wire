@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"git.code.oa.com/cdb_admin/wire"
+	"github.com/mateemu/wire"
 )
 
 type S1 struct {
